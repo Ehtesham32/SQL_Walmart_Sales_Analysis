@@ -14,7 +14,9 @@ The aims is to study how sales strategies can be improved and optimized.
 **Customer Analysis**: This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
 ---------------- Approach Used ----------------------
+
 Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
+
 ---------- **Build a database** ----------------------
 -------- **Create table and insert the data.** -----------------------
 Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are filtered out.
